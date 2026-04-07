@@ -147,4 +147,4 @@ if st.button("Rodar Simulação"):
     ax.set_ylabel("Frequência")
     ax.legend()
 
-    st.pyplot(fig)python -m venv venv
+    st.pyplot(fig)
