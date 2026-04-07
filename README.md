@@ -1,4 +1,5 @@
 Simulação de Penetração de Luz (Monte Carlo) 🌟
+
 Este é um aplicativo em Streamlit que realiza simulações de penetração de luz em tecidos usando o método Monte Carlo. O app permite comparar diferentes comprimentos de onda e tipos de tecido, além de ajustar parâmetros ópticos como absorção, espalhamento, anisotropia e índice de refração.
 
 🧬 Funcionalidades
